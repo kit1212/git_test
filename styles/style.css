@@ -2,6 +2,17 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+.left-block {
+    position: absolute;
+    left: 30%;
+    top: 10%;
+    }
+    .right-block {
+    position: absolute;
+    right: 30%;
+    top: 10%;
+    }
+
 .block-message {
     width: 300px;
     height: 100px;
